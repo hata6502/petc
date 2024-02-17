@@ -1,4 +1,4 @@
-# petc
+# Press enter to continue
 
 The "$" command is a modern sl command.
 
