@@ -1,4 +1,4 @@
-# sl
+# petc
 
 The "$" command is a modern sl command.
 
@@ -7,7 +7,7 @@ The "$" command is a modern sl command.
 ## Install
 
 ```bash
-$ npm i -g sl
+$ npm i -g petc
 ```
 
 ## Usage
